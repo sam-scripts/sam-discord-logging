@@ -26,7 +26,7 @@ This resource provides an export and the baseline framework for sending discord 
 | :--- | :--- |
 | **Framework** | Standalone (Works on any server/framework) |
 | **Dependencies** | N/A |
-| **Performance | 0.00ms |
+| **Performance** | 0.00ms |
 | **Support** | Discord |
 
 ---

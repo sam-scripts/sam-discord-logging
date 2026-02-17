@@ -17,6 +17,7 @@
 ## 📖 About This Resource
 
 This resource will give you the ability to be able to send discord messages in game using the SendLog export.
+
 ---
 
 ## 💻 Technical Details

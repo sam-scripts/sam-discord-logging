@@ -37,7 +37,7 @@ The export allows you send a discord embed to any channel within your discord. Y
 
 ```lua
 exports['sam-logging']:SendLog({
-        url = DISCORD WEBHOOK HERE",
+        url = DISCORD WEBHOOK HERE,
         color = 167530, -- Green Color
         title = "Hello this is my title!" ,
         desc = "Hello, this is a description!",

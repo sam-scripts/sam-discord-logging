@@ -16,7 +16,7 @@
 
 ## 📖 About This Resource
 
-This resource will give you the ability to be able to send discord messages in game using the SendLog export.
+This resource provides an export and the baseline framework for sending discord embeds into your discord from your FiveM Server.
 
 ---
 
